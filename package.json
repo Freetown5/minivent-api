@@ -1,5 +1,5 @@
 {
-  "name": "minivent-server",
+  "name": "minivent-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
